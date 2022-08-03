@@ -1,4 +1,4 @@
-## Olá.👋 Eu sou o Lucas Romera, estudante do 4º Semestre de Analise e Desenvolvimento de Sistemas na Fatec de Indaiatuba. 
+## Olá.👋 Eu sou o Lucas Romera, estudante do 5º Semestre de Analise e Desenvolvimento de Sistemas na Fatec de Indaiatuba. 
 
 <div align="center">
   <a href="https://github.com/lucasromera">
